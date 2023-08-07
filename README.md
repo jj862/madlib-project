@@ -1,5 +1,5 @@
 # madlib-project
-basic madlib code via python
+basic Madlib code via python
 
 
-not much to look at, variabes and print statement, fragment code
+practicing python with a Madlib 
